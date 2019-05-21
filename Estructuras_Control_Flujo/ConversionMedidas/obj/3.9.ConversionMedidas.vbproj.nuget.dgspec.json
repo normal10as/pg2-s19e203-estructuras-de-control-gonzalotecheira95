@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gnxa9\\source\\repos\\pg2-s19e203-estructuras-de-control-gonzalotecheira95\\Estructuras_Control_Flujo\\ConversionMedidas\\3.9.ConversionMedidas.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gnxa9\\source\\repos\\pg2-s19e203-estructuras-de-control-gonzalotecheira95\\Estructuras_Control_Flujo\\ConversionMedidas\\3.9.ConversionMedidas.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gnxa9\\source\\repos\\pg2-s19e203-estructuras-de-control-gonzalotecheira95\\Estructuras_Control_Flujo\\ConversionMedidas\\3.9.ConversionMedidas.vbproj",
+        "projectName": "3.9.ConversionMedidas",
+        "projectPath": "C:\\Users\\gnxa9\\source\\repos\\pg2-s19e203-estructuras-de-control-gonzalotecheira95\\Estructuras_Control_Flujo\\ConversionMedidas\\3.9.ConversionMedidas.vbproj",
+        "packagesPath": "C:\\Users\\gnxa9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gnxa9\\source\\repos\\pg2-s19e203-estructuras-de-control-gonzalotecheira95\\Estructuras_Control_Flujo\\ConversionMedidas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gnxa9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
