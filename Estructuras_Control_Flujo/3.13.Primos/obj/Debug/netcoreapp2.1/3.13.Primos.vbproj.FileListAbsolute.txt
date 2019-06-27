@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\bin\Debug\netcoreapp2.1\3.13.Primos.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\bin\Debug\netcoreapp2.1\3.13.Primos.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\bin\Debug\netcoreapp2.1\3.13.Primos.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\bin\Debug\netcoreapp2.1\3.13.Primos.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\bin\Debug\netcoreapp2.1\3.13.Primos.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.13.Primos\obj\Debug\netcoreapp2.1\3.13.Primos.pdb

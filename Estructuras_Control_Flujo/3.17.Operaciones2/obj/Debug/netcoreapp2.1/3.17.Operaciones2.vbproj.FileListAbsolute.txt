@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\bin\Debug\netcoreapp2.1\3.17.Operaciones2.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\bin\Debug\netcoreapp2.1\3.17.Operaciones2.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\bin\Debug\netcoreapp2.1\3.17.Operaciones2.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\bin\Debug\netcoreapp2.1\3.17.Operaciones2.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\bin\Debug\netcoreapp2.1\3.17.Operaciones2.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.17.Operaciones2\obj\Debug\netcoreapp2.1\3.17.Operaciones2.pdb

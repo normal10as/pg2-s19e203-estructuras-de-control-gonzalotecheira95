@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\bin\Debug\netcoreapp2.1\3.14.Descuento.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\bin\Debug\netcoreapp2.1\3.14.Descuento.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\bin\Debug\netcoreapp2.1\3.14.Descuento.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\bin\Debug\netcoreapp2.1\3.14.Descuento.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\bin\Debug\netcoreapp2.1\3.14.Descuento.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.dll
+C:\Users\gnxa9\source\repos\pg2-s19e203-estructuras-de-control-gonzalotecheira95\Estructuras_Control_Flujo\3.14.Descuento\obj\Debug\netcoreapp2.1\3.14.Descuento.pdb

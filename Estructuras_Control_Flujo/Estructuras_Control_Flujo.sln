@@ -23,11 +23,23 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.9.ConversionMedidas", "Co
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.10.MultiplosCinco", "3.10.MultiplosCinco\3.10.MultiplosCinco.vbproj", "{5D3AD14B-E853-4FE9-91EB-59971190C378}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.11.ParesImpares", "3.11.ParesImpares\3.11.ParesImpares.vbproj", "{7CB71051-03E5-41C0-98A1-9F7384F58D2E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.11.ParesImpares", "3.11.ParesImpares\3.11.ParesImpares.vbproj", "{7CB71051-03E5-41C0-98A1-9F7384F58D2E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.12.Fibonacci", "3.12.Fibonacci\3.12.Fibonacci.vbproj", "{9B4532D1-5439-4772-8764-85F34F97F41A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.12.Fibonacci", "3.12.Fibonacci\3.12.Fibonacci.vbproj", "{9B4532D1-5439-4772-8764-85F34F97F41A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.13.Primos", "3.13.Primos\3.13.Primos.vbproj", "{3D7E1EE7-22A5-4D9D-9F07-4193588098EA}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.13.Primos", "3.13.Primos\3.13.Primos.vbproj", "{3D7E1EE7-22A5-4D9D-9F07-4193588098EA}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.14.Descuento", "3.14.Descuento\3.14.Descuento.vbproj", "{8A6D93B3-7405-432D-8C2E-5EC0D77F567C}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "3.15.Deposito", "3.15.Deposito\3.15.Deposito.vbproj", "{3E02241E-0D4E-49F3-98FC-1434C620CD7A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.16.Operaciones", "3.16.Operaciones\3.16.Operaciones.vbproj", "{66673125-41A3-4E24-BA1C-836A31610654}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.17.Operaciones2", "3.17.Operaciones2\3.17.Operaciones2.vbproj", "{EE7C1170-FE89-4636-A4D1-F2162EE8DDA7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.18.Ejercicio2.3", "3.18.Ejercicio2.3\3.18.Ejercicio2.3.vbproj", "{519C5774-CBCE-47A9-834E-C453331C482A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.19.Ejercicio2_4", "3.19.Ejercicio2_4\3.19.Ejercicio2_4.vbproj", "{22B4159E-227F-4FFE-B5ED-8132D54D5C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +99,30 @@ Global
 		{3D7E1EE7-22A5-4D9D-9F07-4193588098EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D7E1EE7-22A5-4D9D-9F07-4193588098EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D7E1EE7-22A5-4D9D-9F07-4193588098EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6D93B3-7405-432D-8C2E-5EC0D77F567C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6D93B3-7405-432D-8C2E-5EC0D77F567C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6D93B3-7405-432D-8C2E-5EC0D77F567C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6D93B3-7405-432D-8C2E-5EC0D77F567C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E02241E-0D4E-49F3-98FC-1434C620CD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E02241E-0D4E-49F3-98FC-1434C620CD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E02241E-0D4E-49F3-98FC-1434C620CD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E02241E-0D4E-49F3-98FC-1434C620CD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66673125-41A3-4E24-BA1C-836A31610654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66673125-41A3-4E24-BA1C-836A31610654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66673125-41A3-4E24-BA1C-836A31610654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66673125-41A3-4E24-BA1C-836A31610654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7C1170-FE89-4636-A4D1-F2162EE8DDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7C1170-FE89-4636-A4D1-F2162EE8DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7C1170-FE89-4636-A4D1-F2162EE8DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7C1170-FE89-4636-A4D1-F2162EE8DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519C5774-CBCE-47A9-834E-C453331C482A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519C5774-CBCE-47A9-834E-C453331C482A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519C5774-CBCE-47A9-834E-C453331C482A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519C5774-CBCE-47A9-834E-C453331C482A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B4159E-227F-4FFE-B5ED-8132D54D5C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B4159E-227F-4FFE-B5ED-8132D54D5C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B4159E-227F-4FFE-B5ED-8132D54D5C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B4159E-227F-4FFE-B5ED-8132D54D5C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
